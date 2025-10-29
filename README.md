@@ -51,7 +51,7 @@ yarn start
      - Put your image inside the `public/images/` folder
      - In `portfolio.js`, just use the file name:
       ```js
-      image: "cleanfolio.png"
+      image: "Vineeth Kumar.png"
       ```
 
   2. **Web image**
@@ -66,7 +66,7 @@ yarn start
 
 - In the `package.json` file, update:
 
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
+`"homepage": "https://vineethvk7.github.io/srcas/"`
 
 to `"homepage": "https://yourusername.github.io"`.
 
