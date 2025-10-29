@@ -29,7 +29,7 @@ const projects = [
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
-    image: 'cleanfolio.png',
+    image: 'Vineeth Kumar.png',
   },
   {
     name: 'Project 2',
