@@ -4,9 +4,9 @@ Cleanfolio is a portfolio template built with React. However, if you prefer a te
 
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
+[![Imgur](https://imgur.com/FwDMNEM.gif)](https://vineethvk7.github.io/srcas/)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+[Live Demo](https://vineethvk7.github.io/srcas/)
 
 ## Instructions
 
@@ -42,7 +42,7 @@ yarn start
 
 - Open the `public/index.html` file and replace:
 
-`<title>John Smith</title>` with `<title>Your Name</title>`.
+`<title>Vineeth Kumar</title>` with `<title>Your Name</title>`.
 
 - Open the `src/portfolio.js` file and make the necessary changes.
 
@@ -51,7 +51,7 @@ yarn start
      - Put your image inside the `public/images/` folder
      - In `portfolio.js`, just use the file name:
       ```js
-      image: "cleanfolio.png"
+      image: "Vineeth Kumar.png"
       ```
 
   2. **Web image**
@@ -66,7 +66,7 @@ yarn start
 
 - In the `package.json` file, update:
 
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
+`"homepage": "https://vineethvk7.github.io/srcas/"`
 
 to `"homepage": "https://yourusername.github.io"`.
 
