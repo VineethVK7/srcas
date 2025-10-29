@@ -8,7 +8,7 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Vineeth Kumar',
   role: 'Program Manager',
-  picture: 'L:\Git Project\srcas\public\images\Vineeth Kumar.png',
+  picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
 
   description:
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
