@@ -20,7 +20,7 @@ cd cleanfolio
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
 
 ```shell
-nvm install
+nvm install lts
 nvm use
 ```
 
